@@ -1,3 +1,0 @@
-/home/mbakmaz/bytelab2024/homework_3/homework-day-3-ascii/build/CMakeFiles/blinvaders.dir
-/home/mbakmaz/bytelab2024/homework_3/homework-day-3-ascii/build/CMakeFiles/edit_cache.dir
-/home/mbakmaz/bytelab2024/homework_3/homework-day-3-ascii/build/CMakeFiles/rebuild_cache.dir
