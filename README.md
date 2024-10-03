@@ -1,4 +1,4 @@
-# Homework Day 3 - ASCII
+# OO-C Space Invaders
 
 ## Assignment: 
 Homework description is located inside [homework.md](homework.md) file.
