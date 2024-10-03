@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/blinvaders.dir/main.c.o CMakeFiles/blinvaders.dir/src/screen_object.c.o CMakeFiles/blinvaders.dir/src/screen_obj_list.c.o CMakeFiles/blinvaders.dir/src/hero.c.o CMakeFiles/blinvaders.dir/src/game.c.o CMakeFiles/blinvaders.dir/src/block.c.o CMakeFiles/blinvaders.dir/src/alien.c.o CMakeFiles/blinvaders.dir/src/bomb.c.o -o blinvaders  -lcurses
